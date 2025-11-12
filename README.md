@@ -9,6 +9,19 @@ A simple notes application built with Node.js, Express, and EJS. This app allows
 - Rename notes
 - Clean and modern UI with Tailwind CSS
 
+## Screenshots
+
+### Vertical (one per line)
+![Home](screenshots/home.png)
+![Note view](screenshots/note.png)
+![Edit view](screenshots/edit.png)
+
+### Side-by-side (centered)
+<p align="center">
+  <img src="screenshots/home.png" width="300" alt="Home" />
+  <img src="screenshots/note.png" width="300" alt="Note" />
+  <img src="screenshots/edit.png" width="300" alt="Edit" />
+</p>
 
 ## Usage
 
